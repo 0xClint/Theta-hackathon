@@ -9,7 +9,7 @@ import {
 
 const Header = () => {
   return (
-    <div className="flex justify-between items-center py-5 pl-7 pr-14 w-[100%]">
+    <div className="flex w-[82.5vw] bg-[#1F1D2B] fixed justify-between items-center py-4 pl-7 pr-14 ">
       <div className="w-[50%]">
         <div className="flex bg-[#353340] rounded-[11px] w-[100%] px-4 py-1 justify-between">
           <input className=" bg-[#353340] w-[70%]"></input>

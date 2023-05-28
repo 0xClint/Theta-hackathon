@@ -12,7 +12,7 @@ import {
 
 const Sidebar = () => {
   return (
-    <div className="w-64 h-screen flex flex-col items-start px-4 text-[0.9rem] border-r-[1px] border-r-[#434343]">
+    <div className="w-64 fixed h-screen flex flex-col items-start px-4 text-[0.9rem] border-r-[1px] border-r-[#434343]">
       <h2 className="text-[1.8rem] font-semibold my-3">LogoName</h2>
       <ul className="flex  flex-col gap-4 mt-6 w-[100%]">
         <li className="flex gap-4 items-center py-1 pl-3 rounded-xl cursor-pointer hover:bg-[#252836]">
