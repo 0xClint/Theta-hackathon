@@ -1,0 +1,13 @@
+export { ReactComponent as ExploreIcon } from "./ExploreIcon.svg";
+export { ReactComponent as FeedbackIcon } from "./FeedbackIcon.svg";
+export { ReactComponent as GalleryIcon } from "./GalleryIcon.svg";
+export { ReactComponent as HeartIcon } from "./HeartIcon.svg";
+export { ReactComponent as HistoryIcon } from "./HistoryIcon.svg";
+export { ReactComponent as LibraryIcon } from "./LibraryIcon.svg";
+export { ReactComponent as NotificationIcon } from "./NotificationIcon.svg";
+export { ReactComponent as SettingIcon } from "./SettingIcon.svg";
+export { ReactComponent as SubscribeIcon } from "./SubscribeIcon.svg";
+export { ReactComponent as TrendingIcon } from "./TrendingIcon.svg";
+export { ReactComponent as UploadIcon } from "./UploadIcon.svg";
+export { ReactComponent as SearchIcon } from "./SearchIcon.svg";
+// export { ReactComponent as  } from "./.svg";
